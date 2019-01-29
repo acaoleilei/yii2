@@ -140,7 +140,7 @@ Yii依靠 [Bower](http://bower.io/) 和/或 [NPM](https://www.npmjs.org/) 软件
 
 当安装完成之后，
 或配置你的Web服务器(看下面的文章)或使用[内置Web Server](https://secure.php.net/manual/en/features.commandline.webserver.php)，
-当在项目 `web` 目录下可以通过下面的命令:
+当在项目`根`目录下可以通过下面的命令:
  
 ```bash
 php yii serve
